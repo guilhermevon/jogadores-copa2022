@@ -1,0 +1,184 @@
+[
+  {
+    "id": "1",
+    "Posição": "GOL",
+    "Jogador": "Dibu Martinez",
+    "idade": "31",
+    "imagem": "./imagens/jogadores-argentina/dibu.jpg"
+  },
+  {
+    "id": "2",
+    "Posição": "GOL",
+    "Jogador": "Franco Armani",
+    "idade": "37",
+    "imagem": "./imagens/jogadores-argentina/armani.jpg"
+  },
+  {
+    "id": "3",
+    "Posição": "GOL",
+    "Jogador": "Geronimo Rulli",
+    "idade": "32",
+    "imagem": "./imagens/jogadores-argentina/rulli.jfif"
+  },
+  {
+    "id": "4",
+    "Posição": "DEF",
+    "Jogador": "Nahuel Molina",
+    "idade": "26",
+    "imagem": "./imagens/jogadores-argentina/molina.jpg"
+  },
+  {
+    "id": "5",
+    "Posição": "DEF",
+    "Jogador": "Gonzalo Montiel",
+    "idade": "27",
+    "imagem": "./imagens/jogadores-argentina/montiel.jpg"
+  },
+  {
+    "id": "6",
+    "Posição": "DEF",
+    "Jogador": "Cristian Romero",
+    "idade": "26",
+    "imagem": "./imagens/jogadores-argentina/romero.jpg"
+  },
+  {
+    "id": "7",
+    "Posição": "DEF",
+    "Jogador": "German Pezzella",
+    "idade": "33",
+    "imagem": "./imagens/jogadores-argentina/Germán_Pezzella.jpg"
+  },
+  {
+    "id": "8",
+    "Posição": "DEF",
+    "Jogador": "Nícolas Otamendi",
+    "idade": "36",
+    "imagem": "./imagens/jogadores-argentina/otamendi.jfif"
+  },
+  {
+    "id": "9",
+    "Posição": "DEF",
+    "Jogador": "Lisandro Martínez",
+    "idade": "26",
+    "imagem": "./imagens/jogadores-argentina/lisandro mart.jpg"
+  },
+  {
+    "id": "10",
+    "Posição": "DEF",
+    "Jogador": "Marcos Acuña",
+    "idade": "32",
+    "imagem": "./imagens/jogadores-argentina/acuna.jpg"
+  },
+  {
+    "id": "11",
+    "Posição": "DEF",
+    "Jogador": "Nicolás Tagliafico",
+    "idade": "31",
+    "imagem": "./imagens/jogadores-argentina/tagliafico.png"
+  },
+  {
+    "id": "12",
+    "Posição": "DEF",
+    "Jogador": "Juan Foyth",
+    "idade": "26",
+    "imagem": "./imagens/jogadores-argentina/tagliafico.png"
+  },
+  {
+    "id": "13",
+    "Posição": "MEI",
+    "Jogador": "Rodrigo De Paul",
+    "idade": "30",
+    "imagem": "./imagens/jogadores-argentina/depaul.jfif"
+  },
+  {
+    "id": "14",
+    "Posição": "MEI",
+    "Jogador": "Leandro Paredes",
+    "idade": "30",
+    "imagem": "./imagens/jogadores-argentina/paredes.jfif"
+  },
+  {
+    "id": "15",
+    "Posição": "MEI",
+    "Jogador": "Alexis Mac Allister",
+    "idade": "25",
+    "imagem": "./imagens/jogadores-argentina/macallister.jfif"
+  },
+  {
+    "id": "16",
+    "Posição": "MEI",
+    "Jogador": "Guido Rodríguez",
+    "idade": "30",
+    "imagem": "./imagens/jogadores-argentina/guido.jpg"
+  },
+  {
+    "id": "17",
+    "Posição": "MEI",
+    "Jogador": "Alejandro Gómez",
+    "idade": "36",
+    "imagem": "./imagens/jogadores-argentina/papugomez.jpg"
+  },
+  {
+    "id": "18",
+    "Posição": "MEI",
+    "Jogador": "Enzo Fernández",
+    "idade": "23",
+    "imagem": "./imagens/jogadores-argentina/enzo.jfif"
+  },
+  {
+    "id": "19",
+    "Posição": "MEI",
+    "Jogador": "Exequiel Palacios",
+    "idade": "25",
+    "imagem": "./imagens/jogadores-argentina/exequiel.jpg"
+  },
+  {
+    "id": "20",
+    "Posição": "ATA",
+    "Jogador": "Lionel Messi",
+    "idade": "37",
+    "imagem": "./imagens/jogadores-argentina/messi.jpg"
+  },
+  {
+    "id": "21",
+    "Posição": "ATA",
+    "Jogador": "Lautaro Martínez",
+    "idade": "26",
+    "imagem": "./imagens/jogadores-argentina/lautaro.jfif"
+  },
+  {
+    "id": "22",
+    "Posição": "ATA",
+    "Jogador": "Angel Dí Maria",
+    "idade": "36",
+    "imagem": "./imagens/jogadores-argentina/di maria.jfif"
+  },
+  {
+    "id": "23",
+    "Posição": "ATA",
+    "Jogador": "Julián Álvarez",
+    "idade": "24",
+    "imagem": "./imagens/jogadores-argentina/julian.jfif"
+  },
+  {
+    "id": "24",
+    "Posição": "ATA",
+    "Jogador": "Paulo Dybala",
+    "idade": "30",
+    "imagem": "./imagens/jogadores-argentina/dybala.jpg"
+  },
+  {
+    "id": "25",
+    "Posição": "ATA",
+    "Jogador": "Nicolás González",
+    "idade": "26",
+    "imagem": "./imagens/jogadores-argentina/nico.jpg"
+  },
+  {
+    "id": "26",
+    "Posição": "ATA",
+    "Jogador": "Joaquín Correa",
+    "idade": "29",
+    "imagem": "https://image-service.onefootball.com/transform?w=280&h=210&dpr=2&image=https%3A%2F%2Ficdn.sempreinter.com%2Fwp-content%2Fuploads%2F2021%2F12%2FJoaquin-Correa-scaled-e1639233824252.jpg"
+  }
+]
