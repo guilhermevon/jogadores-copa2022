@@ -4,133 +4,133 @@
     "Posição": "GOL",
     "Jogador": "Dibu Martinez",
     "idade": "31",
-    "imagem": "imagens/jogadores-argentina/dibu.jpg"
+    "imagem": "https://veja.abril.com.br/wp-content/uploads/2022/11/GettyImages-1442807029.jpg?crop=1&resize=1212,909"
   },
   {
     "id": "2",
     "Posição": "GOL",
     "Jogador": "Franco Armani",
     "idade": "37",
-    "imagem": "imagens/jogadores-argentina/armani.jpg"
+    "imagem": "https://conteudo.imguol.com.br/c/copadomundo/2018/Imagem/f2/2018/06/16/franco-armani-da-argentina-1529158235201_v2_4x3.jpg"
   },
   {
     "id": "3",
     "Posição": "GOL",
     "Jogador": "Geronimo Rulli",
     "idade": "32",
-    "imagem": "imagens/jogadores-argentina/rulli.jfif"
+    "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJzY3cpJPoYFTx59ZYmT3QQNh2LTnbJsQeig&s"
   },
   {
     "id": "4",
     "Posição": "DEF",
     "Jogador": "Nahuel Molina",
     "idade": "26",
-    "imagem": "imagens/jogadores-argentina/molina.jpg"
+    "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNJS3CJ2CBx7i27eEC-O7HiCMePU2pqcJ3kg&s"
   },
   {
     "id": "5",
     "Posição": "DEF",
     "Jogador": "Gonzalo Montiel",
     "idade": "27",
-    "imagem": "imagens/jogadores-argentina/montiel.jpg"
+    "imagem": "https://www.cnnbrasil.com.br/wp-content/uploads/sites/12/2023/12/gonzalo-montiel-messi-e1702998018212.jpeg?w=1200&h=900&crop=1"
   },
   {
     "id": "6",
     "Posição": "DEF",
     "Jogador": "Cristian Romero",
     "idade": "26",
-    "imagem": "imagens/jogadores-argentina/romero.jpg"
+    "imagem": "https://i2-prod.football.london/incoming/article23969002.ece/ALTERNATES/s1200c/0_GettyImages-1396442159.jpg"
   },
   {
     "id": "7",
     "Posição": "DEF",
     "Jogador": "German Pezzella",
     "idade": "33",
-    "imagem": "imagens/jogadores-argentina/Germán_Pezzella.jpg"
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Germ%C3%A1n_Pezzella_%28cropped%29.jpg"
   },
   {
     "id": "8",
     "Posição": "DEF",
     "Jogador": "Nícolas Otamendi",
     "idade": "36",
-    "imagem": "imagens/jogadores-argentina/otamendi.jfif"
+    "imagem": "https://img.a.transfermarkt.technology/portrait/big/54781-1669835534.jpg?lm=1"
   },
   {
     "id": "9",
     "Posição": "DEF",
     "Jogador": "Lisandro Martínez",
     "idade": "26",
-    "imagem": "imagens/jogadores-argentina/lisandro mart.jpg"
+    "imagem": "https://i2-prod.irishmirror.ie/incoming/article28795823.ece/ALTERNATES/s615/1_Lisandro-Martinez-9.jpg"
   },
   {
     "id": "10",
     "Posição": "DEF",
     "Jogador": "Marcos Acuña",
     "idade": "32",
-    "imagem": "imagens/jogadores-argentina/acuna.jpg"
+    "imagem": "https://i0.statig.com.br/bancodeimagens/1k/n2/99/1kn299w78og9k5rsuo2qnegqx.jpg"
   },
   {
     "id": "11",
     "Posição": "DEF",
     "Jogador": "Nicolás Tagliafico",
     "idade": "31",
-    "imagem": "imagens/jogadores-argentina/tagliafico.png"
+    "imagem": "https://i.guim.co.uk/img/media/0473d3814bd3624bbbafe2bd396ed797c04ff70b/0_0_4395_2637/master/4395.jpg?width=465&dpr=1&s=none"
   },
   {
     "id": "12",
     "Posição": "DEF",
     "Jogador": "Juan Foyth",
     "idade": "26",
-    "imagem": "imagens/jogadores-argentina/tagliafico.png"
+    "imagem": "https://assets.dev-filo.dift.io/img/2023/10/08/filo2(29)1522.png"
   },
   {
     "id": "13",
     "Posição": "MEI",
     "Jogador": "Rodrigo De Paul",
     "idade": "30",
-    "imagem": "imagens/jogadores-argentina/depaul.jfif"
+    "imagem": "https://conteudo.imguol.com.br/c/parceiros/aa/2022/12/07/rodrigo-de-paul-e-um-dos-pilares-da-selecao-argentina-1670436607667_v2_450x450.jpg"
   },
   {
     "id": "14",
     "Posição": "MEI",
     "Jogador": "Leandro Paredes",
     "idade": "30",
-    "imagem": "imagens/jogadores-argentina/paredes.jfif"
+    "imagem": "https://odia.ig.com.br/_midias/jpg/2024/04/09/385x420/1_063_2138422299-32518778.jpg"
   },
   {
     "id": "15",
     "Posição": "MEI",
     "Jogador": "Alexis Mac Allister",
     "idade": "25",
-    "imagem": "imagens/jogadores-argentina/macallister.jfif"
+    "imagem": "ihttps://lncimg.lance.com.br/uploads/2022/12/27/63ab2de9d3e92.jpeg"
   },
   {
     "id": "16",
     "Posição": "MEI",
     "Jogador": "Guido Rodríguez",
     "idade": "30",
-    "imagem": "imagens/jogadores-argentina/guido.jpg"
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Guido_Rodr%C3%ADguez.png"
   },
   {
     "id": "17",
     "Posição": "MEI",
     "Jogador": "Alejandro Gómez",
     "idade": "36",
-    "imagem": "imagens/jogadores-argentina/papugomez.jpg"
+    "imagem": "https://conteudo.imguol.com.br/c/esporte/73/2022/12/21/papu-gomez-campeao-do-mundo-pela-argentina-1671674791064_v2_450x600.jpg"
   },
   {
     "id": "18",
     "Posição": "MEI",
     "Jogador": "Enzo Fernández",
     "idade": "23",
-    "imagem": "imagens/jogadores-argentina/enzo.jfif"
+    "imagem": "https://lncimg.lance.com.br/cdn-cgi/image/width=828,quality=75,fit=pad,format=webp/uploads/2022/12/12/63978c9e7b671.jpeg"
   },
   {
     "id": "19",
     "Posição": "MEI",
     "Jogador": "Exequiel Palacios",
     "idade": "25",
-    "imagem": "imagens/jogadores-argentina/exequiel.jpg"
+    "imagem": "https://b.fssta.com/uploads/application/soccer/headshots/40270.png"
   },
   {
     "id": "20",
@@ -144,35 +144,35 @@
     "Posição": "ATA",
     "Jogador": "Lautaro Martínez",
     "idade": "26",
-    "imagem": "imagens/jogadores-argentina/lautaro.jfif"
+    "imagem": "https://conteudo.imguol.com.br/c/esporte/9c/2022/12/07/lautaro-martinez-em-acao-na-vitoria-da-argentina-sobre-a-australia-1670412662831_v2_450x600.jpg"
   },
   {
     "id": "22",
     "Posição": "ATA",
     "Jogador": "Angel Dí Maria",
     "idade": "36",
-    "imagem": "imagens/jogadores-argentina/di maria.jfif"
+    "imagem": "https://conteudo.imguol.com.br/c/galeria/0f/2022/12/18/di-maria-celebra-seu-gol-sobre-a-franca-na-final-da-copa-1671379257343_v2_450x600.jpg"
   },
   {
     "id": "23",
     "Posição": "ATA",
     "Jogador": "Julián Álvarez",
     "idade": "24",
-    "imagem": "imagens/jogadores-argentina/julian.jfif"
+    "imagem": "https://jornalvozativa.com/wp-content/uploads/2024/07/jornal-voz-ativa-ouro-preto-mg-minas-gerais-op-materia-argentino-julian-alvarez-e-o-jogador-mais-valioso-dos-jogos-olimpicos-23072024103055.jpg"
   },
   {
     "id": "24",
     "Posição": "ATA",
     "Jogador": "Paulo Dybala",
     "idade": "30",
-    "imagem": "imagens/jogadores-argentina/dybala.jpg"
+    "imagem": "https://pbs.twimg.com/media/FjFKoKgWQAAJ7nl.jpg:large"
   },
   {
     "id": "25",
     "Posição": "ATA",
     "Jogador": "Nicolás González",
     "idade": "26",
-    "imagem": "imagens/jogadores-argentina/nico.jpg"
+    "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_Cw9zTgUSZVXPIuOe4uXuQMD07pR-LwrH-A&s"
   },
   {
     "id": "26",
