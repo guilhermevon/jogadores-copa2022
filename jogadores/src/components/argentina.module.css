@@ -1,0 +1,32 @@
+.title {
+  color: black;
+  margin-bottom: 16px; /* Adjust as needed for spacing between title and table */
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+th {
+  color: white;
+  border: 1px solid black;
+  padding: 8px;
+  text-align: center;
+}
+
+td {
+  border: 1px solid black;
+  padding: 8px;
+  text-align: center;
+  color: black;
+}
+
+thead th {
+  background-color: black;
+}
+
+img {
+  width: 85px;
+  height: 90px; /* Adjust the size of images as needed */
+}
