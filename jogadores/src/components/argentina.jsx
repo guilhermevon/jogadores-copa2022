@@ -6,7 +6,7 @@ const Argentina = () => {
 
   useEffect(() => {
     fetch(
-      "https://raw.githubusercontent.com/guilhermevon/jogadores-copa2022/main/argentina.json"
+      "https://raw.githubusercontent.com/guilhermevon/jogadores-copa2022/main/jogadores/jsons/argentina.json"
     )
       .then((response) => response.json())
       .then((data) => {
